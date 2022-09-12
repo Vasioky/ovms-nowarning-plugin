@@ -12,11 +12,11 @@
 			} else {
 				PubSub.unsubscribe(eventName );
 			}
-			}
+		}
 			PubSub.subscribe(eventName , sendCommand);
 			
 			// start timeout:
-			OvmsEvents.Raise(eventName , 8000);
-		}
+			OvmsEvents.Raise(eventName , 12000);
+		});
 	}
 )();
