@@ -1,4 +1,4 @@
-This is a plugin for OVMS which bypass confirmation screen on Nissan Leaf using OVMS;
+This is a plugin for OVMS which bypass confirmation screen on Nissan Leaf using OVMS.
 
 How to use:
 1. Upload nowo.js in the folder /store/scripts using UI 
