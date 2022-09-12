@@ -8,14 +8,12 @@
 
 **Note:** The default cable which are shiped with OMVS doesn't have connection for can3 to Nissan's AV-CAN, therefore it is required to add tow extra conections to AV-CAN.
 
-**Pinout:**
-
-J1962-M / DB9-F Signal
-4 - 3 Chassis/Power GND
-6 - 5 CAN-H (ALTERNATE CAN)
-14 - 4 CAN-L (ALTERNATE CAN)
-13 - 7 CAN-H (primary CAN)
-12 - 2 CAN-L (primary CAN)
-11 - 8 CAN-H (primary CAN)
-3 - 6 CAN-L (primary CAN)
+**Pinout:** J1962-M / DB9-F Signal\
+4 - 3 Chassis/Power GND\\\
+6 - 5 CAN-H (ALTERNATE CAN)\\
+14 - 4 CAN-L (ALTERNATE CAN)\
+13 - 7 CAN-H (primary CAN)\\
+12 - 2 CAN-L (primary CAN)\
+11 - 8 CAN-H (primary CAN)\
+3 - 6 CAN-L (primary CAN)\
 16 - 9 +12V Vehicle Power
