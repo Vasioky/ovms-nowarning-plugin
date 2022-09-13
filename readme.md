@@ -12,7 +12,7 @@
 4 - 3 Chassis/Power GND\
 6 - 5 CAN-H (ALTERNATE CAN)\
 14 - 4 CAN-L (ALTERNATE CAN)\
-13 - 7 CAN-H (primary CAN)\\
+13 - 7 CAN-H (primary CAN)\
 12 - 2 CAN-L (primary CAN)\
 11 - 8 CAN-H (primary CAN)\
 3 - 6 CAN-L (primary CAN)\
