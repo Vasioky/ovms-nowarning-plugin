@@ -16,7 +16,7 @@
 			PubSub.subscribe(eventName , sendCommand);
 			
 			// start timeout:
-			OvmsEvents.Raise(eventName , 12000);
+			OvmsEvents.Raise(eventName , 11000);
 		});
 	}
 )();
