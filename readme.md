@@ -14,6 +14,6 @@
 14 - 4 CAN-L (ALTERNATE CAN)\
 13 - 7 CAN-H (primary CAN)\
 12 - 2 CAN-L (primary CAN)\
-11 - 8 CAN-H (AV CAN)\
-3 - 6 CAN-L (AV CAN)\
+**11 - 8 CAN-H (AV CAN)**\
+**3 - 6 CAN-L (AV CAN)**\
 16 - 9 +12V Vehicle Power
