@@ -1,4 +1,4 @@
-**This is a plugin for OVMS which bypass confirmation screen on Nissan Leaf using OVMS.**
+**This is a plugin for the [OVMS module](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3) which bypass confirmation screen on Nissan Leaf using OVMS.**
 
 **How to use:**
 1. Upload nowo.js in the folder /store/scripts using UI 
@@ -7,6 +7,8 @@
 4. Restart the module
 
 **Note:** The default cable that is shiped with OMVS doesn't have connection for the can3 to Nissan's AV-CAN, therefore it is required to add two extra conections to AV-CAN.
+
+![Nissan Leaf OBD2 pinout](./leaf-can-pinout.jpg)
 
 **Pinout:** J1962-M / DB9-F Signal\
 4 - 3 Chassis/Power GND\
@@ -17,3 +19,4 @@
 **11 - 8 CAN-H (AV CAN)**\
 **3 - 6 CAN-L (AV CAN)**\
 16 - 9 +12V Vehicle Power
+
