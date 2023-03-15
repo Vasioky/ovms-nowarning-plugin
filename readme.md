@@ -6,7 +6,7 @@
 3. if it doesn't exist create it or upload existing from repository
 4. Restart the module
 
-**Note:** The default cable that is shiped with OMVS doesn't have connection for the can3 to Nissan's AV-CAN, therefore it is required to add tow extra conections to AV-CAN.
+**Note:** The default cable that is shiped with OMVS doesn't have connection for the can3 to Nissan's AV-CAN, therefore it is required to add two extra conections to AV-CAN.
 
 **Pinout:** J1962-M / DB9-F Signal\
 4 - 3 Chassis/Power GND\
